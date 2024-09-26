@@ -1,5 +1,5 @@
 import React from "react";
-import Buscar from "../Buscar/Buscar";
+import Buscar from "../Buscar/buscar";
 import InfoPrincipal from "../InfoPrincipal/InfoPrincipal";
 import InfoSecundaria from "../InfoSecundaria/InfoSecundaria";
 import { useClima } from "../../hooks/useClima";
